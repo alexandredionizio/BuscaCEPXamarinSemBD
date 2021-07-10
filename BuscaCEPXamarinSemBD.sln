@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuscaCEPXamarinSemBD.Android", "BuscaCEPXamarinSemBD\BuscaCEPXamarinSemBD.Android\BuscaCEPXamarinSemBD.Android.csproj", "{128A3BCF-5A68-4668-8B32-3FAA276F5C12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuscaCEPXamarinSemBD", "BuscaCEPXamarinSemBD\BuscaCEPXamarinSemBD\BuscaCEPXamarinSemBD.csproj", "{A1698DEB-2043-4EC1-91E4-A00D57404EC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{128A3BCF-5A68-4668-8B32-3FAA276F5C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{128A3BCF-5A68-4668-8B32-3FAA276F5C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{128A3BCF-5A68-4668-8B32-3FAA276F5C12}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{128A3BCF-5A68-4668-8B32-3FAA276F5C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{128A3BCF-5A68-4668-8B32-3FAA276F5C12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{128A3BCF-5A68-4668-8B32-3FAA276F5C12}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A1698DEB-2043-4EC1-91E4-A00D57404EC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1698DEB-2043-4EC1-91E4-A00D57404EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1698DEB-2043-4EC1-91E4-A00D57404EC9}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A1698DEB-2043-4EC1-91E4-A00D57404EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1698DEB-2043-4EC1-91E4-A00D57404EC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1698DEB-2043-4EC1-91E4-A00D57404EC9}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F597FB5-F088-44E6-BADE-16D2012FC3C5}
+	EndGlobalSection
+EndGlobal
